@@ -16,7 +16,7 @@ Aplikasi akan melakukan perhitungan berapa yang harus
 dibayarkan oleh pembeli dan menampilkan struk belanja
 yang akan dibayarkan.
 
-###### Tampilan
+##### Tampilan
 
 1. A. Baju = Rp 30.000,00 (diskon 10%)
 Rp 27.000,00
@@ -47,9 +47,11 @@ mengikuti contoh berikut
 IN : 07.45 OUT: 08.01, maka akan dihitung menjadi 1 jam. Kemudian akan
 menampilkan tagihan yang harus dibayarkan
 
-###### Tampilan
+##### Tampilan
 
 Jenis Kendaraan : Mobil
 IN : 07.45
 OUT : 09.01
 Tagihan : Rp 11.000,00
+
+#### Note : Belum menggunakan date data type
